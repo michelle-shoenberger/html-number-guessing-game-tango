@@ -1,11 +1,13 @@
-/* styles.css */
 body {
   font-family: "Helvetica Neue", sans-serif;
+  background-color: rgb(230, 228, 215);
   font-weight: 300;
   text-align: center;
 }
 
 h1 {
-  font-weight: 400
+  font-weight: 600;
 }
-
+p {
+  color: brown;
+}
